@@ -1,0 +1,130 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "text": "Test",
+      "title": "",
+      "desc": "",
+      "end_iso": "",
+      "name": "",
+      "role": "",
+      "author": "admin",
+      "timestamp": "2025-09-27T10:22:28.176341"
+    },
+    {
+      "id": 2,
+      "text": "Test2",
+      "title": "",
+      "desc": "",
+      "end_iso": "",
+      "name": "",
+      "role": "",
+      "author": "admin",
+      "timestamp": "2025-09-27T10:22:28.176366"
+    },
+    {
+      "text": "Hi",
+      "author": "admin",
+      "timestamp": "2025-09-27T09:31"
+    },
+    {
+      "text": "2039´4903",
+      "author": "admin",
+      "timestamp": "2025-09-27T09:44"
+    },
+    {
+      "id": 3,
+      "text": "w",
+      "author": "admin",
+      "timestamp": "2025-09-27T10:22:33.485950"
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "frage": "Test",
+      "options": {
+        "Test": 1
+      },
+      "votes": {
+        "admin": "Test"
+      }
+    },
+    {
+      "id": 2,
+      "frage": "345345",
+      "options": {
+        "234": 0,
+        "324": 1
+      },
+      "votes": {
+        "admin": "324"
+      }
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "TEst",
+      "desc": "test",
+      "end_iso": "2025-09-27:00:00"
+    },
+    {
+      "id": 2,
+      "title": "YYYY-MM-DDTHH:MM:SS",
+      "desc": "YYYY-MM-DDTHH:MM:SS",
+      "end_iso": "2025-09-2713:00:00"
+    },
+    {
+      "id": 3,
+      "title": "SKIBIDI",
+      "desc": "test",
+      "end_iso": "2025-09-27T12:00:00"
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "text": "",
+      "title": "",
+      "desc": "",
+      "end_iso": "",
+      "name": "Name: Julian   Discord: devskxx   Rolle:  Owner",
+      "role": "",
+      "author": "",
+      "timestamp": "2025-09-27T10:22:28.176374"
+    }
+  ],
+  "feedback": [
+    {
+      "id": 1,
+      "user": "admin",
+      "text": "Hi",
+      "timestamp": "2025-09-27T10:40:08.886781"
+    },
+    {
+      "id": 2,
+      "user": "admin",
+      "text": "Sehr nett",
+      "timestamp": "2025-09-27T10:40:18.199820"
+    },
+    {
+      "id": 3,
+      "user": "admin",
+      "text": "Fr",
+      "timestamp": "2025-09-27T10:40:25.535868"
+    },
+    {
+      "id": 4,
+      "user": "admin",
+      "text": "Fr",
+      "timestamp": "2025-09-27T10:40:30.576614"
+    },
+    {
+      "id": 5,
+      "user": "admin",
+      "text": "Gargamel schlechtester Support",
+      "timestamp": "2025-09-27T10:41:39.136466"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "pw": "scrypt:32768:8:1$ZxVZo12XchYvcVNU$9af761a84d008daf80772745e825558bc0f4e057d83484cd228f53f4024aac71c9d9add0c9724c234af9e6bfb8e3cfdf2766bbdbeebe8526565358370181af4c",
+    "is_admin": true
+  },
+  "Julian": {
+    "pw": "scrypt:32768:8:1$IBitsmrjsi9E7Yol$d47363731536d14104a03bb4c08e483cf4ab65e809cdec95d089d23db0cc9e4335e8bdbceae6c17c8c897eaa0aa1da7f9eea10e16ab46b145eca6590093d4768",
+    "is_admin": false
+  }
+}
